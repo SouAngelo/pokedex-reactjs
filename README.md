@@ -9,7 +9,7 @@ Projeto pokedex, consumindo API com todos os Pokémon. Navegue entre as páginas
 ## 💻 Layout responsivo
 <br>
 <p align='center'>
-<img width='700' src='/src/gifs-demo/2022-09-06 11-40-21.gif'>
+<img width='700' src='/src/gif-demo/2022-09-10 10-16-23.gif'>
 </p>
 
 <br>
